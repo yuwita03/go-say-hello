@@ -2,5 +2,5 @@ package gosayhello
 
 
 func SayHellop()string{
-	return "Hello"
+	return "Hello Nekoyuuuu!!!!!!"
 }
